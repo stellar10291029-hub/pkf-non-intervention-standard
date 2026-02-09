@@ -100,3 +100,8 @@ Eun-Young Lee, M.D.
 ## License
 This standard is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
 
+Correspondence: pkf.eunyoung@gmail.com
+This document serves as a canonical reference.
+Correspondence is limited to scholarly clarification or citation-related matters.
+
+
